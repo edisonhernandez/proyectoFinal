@@ -1,4 +1,5 @@
-com\proyectodistribuidas\managebean\EmpleadoManagedBean.class
 com\proyectodistribuidas\managebean\CargoManagedBean.class
+com\proyectodistribuidas\managebean\EstadoManagedBean.class
+com\proyectodistribuidas\managebean\PersonaManagedBean.class
 com\proyectodistribuidas\managebean\ProveedorManagedBean.class
 com\proyectodistribuidas\managebean\ManageBeanInterfaces.class
